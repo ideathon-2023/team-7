@@ -1,1 +1,5 @@
-# team-7
+# team-7: SKD
+
+- Gauravpreet Singh
+- Gautam
+- Simarjeet
